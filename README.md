@@ -13,7 +13,6 @@ Soy estudiante de **Licenciatura en Sistemas** en la **Universidad Nacional de L
 
 Actualmente desarrollo **proyectos personales y académicos** orientados a entornos reales de trabajo, cuidando estructura, buenas prácticas, deploy y calidad del código.
 
-Interés en roles junior donde pueda aportar código, aprender buenas prácticas y trabajar en entornos reales de desarrollo. 
 
 ---
 
