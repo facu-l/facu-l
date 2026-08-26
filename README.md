@@ -108,7 +108,3 @@ Landing page profesional desarrollada con React y Tailwind CSS.
 - **Back-End / Java** – Talento Tech (Ministerio de Educación GCBA) · 80 horas · 2026
 
 ---
-
-## 📊 GitHub Stats
-
-![Facundo's GitHub stats](https://github-readme-stats.vercel.app/api?username=facu-l&show_icons=true&theme=default)
